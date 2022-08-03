@@ -3,7 +3,7 @@
 // -------------------------------------------------------------------
 template <typename T>
 class Liste {
-private:
+protected:
     T *_values;
     int _last;
     int _size;
@@ -17,7 +17,8 @@ public:
     Liste(int size = 8);
     Liste(const Liste& l);
     ~Liste();
-    void append(T value);
+
+    virtual void append(T value);
     void remove(T value);
     T getValueAt(int pos);
     int size();
