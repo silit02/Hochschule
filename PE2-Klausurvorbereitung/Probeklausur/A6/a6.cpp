@@ -4,7 +4,6 @@ using namespace std;
 
 template <typename T>
 class MySet: public Liste<T> {
-	friend ostream& operator<<(ostream &os, const MySet<T> &s);
 public:
 	MySet(int size = 8): Liste<T>(size) {}
 
@@ -19,8 +18,8 @@ public:
 
 	MySet intersect(MySet<T> &s) {
         MySet<T> inter;
-        for (int i = 0; i < this->_last; i++) {
-            if (this->find(s.getValueAt(i)) != -1) {
+        for (int i = 0; i < this->size(); i++) {
+            if (s.find(this->getValueAt(i)) != -1) {
                 inter.append(this->getValueAt(i));
             }
         }
@@ -28,18 +27,28 @@ public:
     }
 
 	MySet<T>& operator=(const MySet<T> &s) {
+		this->_last = s._last;
+		this->_size = s._size;
 
+		for(int i = 0; i<s.size(); i++){
+			this->_values[i] = s._values[i];
+		}
+		return *this;
     }
+
+	ostream& ausgabe(ostream &os) {
+		os << "{ ";
+		for(int i = 0; i<this->size(); i++) {
+			os << this->getValueAt(i) << " ";
+		}
+		os << "}";
+		return os;
+	}
 };
 
-template <typename T2>
-ostream& operator<<(ostream &os, const MySet<T2> &s) {
-	os << "{ ";
-	for(int i = 0; i<s.size(); i++) {
-		os << s.getValueAt(i) << " ";
-	}
-	os << " }";
-	return os;
+template <typename T>
+ostream& operator<<(ostream &os, MySet<T> &s ) {
+	return s.ausgabe(os);
 }
 
 int main() {
@@ -57,6 +66,9 @@ int main() {
 
 	cout << sd << endl;
 
-	cout << si.intersect(sd) << endl;
+	MySet<int> in;
+	in = si.intersect(sd);
+
+	cout << in << endl;
 	return 0;
 }
