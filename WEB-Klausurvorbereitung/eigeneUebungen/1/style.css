@@ -1,6 +1,5 @@
 body {
 	background-color: red;
-	font-family: Verdana, sans-serif;
 }
 
 button { 
@@ -13,6 +12,8 @@ button {
 	left: 40%;
 	width:20%;
 	height:20%;
+	font-family: Helvetica, sans-serif;
+	font-size: medium;
 }
 
 button:hover {
