@@ -4,3 +4,4 @@ Programme, die ich während meiner Zeit an der Hochschule geschrieben habe, aber
 - PE2-Klausurvorbereitung
 - WEB-Klausurvorbereitung
 - IAS-Klausurvorbereitung
+- DNE-Klausurvorbereitung
