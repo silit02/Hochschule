@@ -5,3 +5,4 @@ Programme, die ich während meiner Zeit an der Hochschule geschrieben habe, aber
 - WEB-Klausurvorbereitung
 - IAS-Klausurvorbereitung
 - DNE-Klausurvorbereitung
+- Numerik-Klausurvorbereitung
