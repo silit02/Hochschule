@@ -18,7 +18,7 @@ int main() {
 		G[i][2] = 1;
 	}
 	
-	//inverse Matrix G_ aufstellen (transponierte Matrix)
+	//transponierte Matrix G_ aufstellen
 	double** G_ = newMat(3,6);
 	for(int i = 0; i<6; i++) {
 		for(int j = 0; j<3; j++) {
