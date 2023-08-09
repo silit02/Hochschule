@@ -13,7 +13,7 @@ float binom_f(float a, float b) {
 /**
 * Funktion berechnet die in der Aufgabenstellung gegebenen Formel mit dem Datentyp double
 */
-float binom_d(double a, double b) {
+double binom_d(double a, double b) {
 	return ((a+b)*(a+b)-(a*a)-(2.0*a*b))/(b*b);
 }
 
