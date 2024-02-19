@@ -6,3 +6,4 @@ Programme, die ich während meiner Zeit an der Hochschule geschrieben habe, aber
 - IAS-Klausurvorbereitung
 - DNE-Klausurvorbereitung
 - Numerik-Klausurvorbereitung
+- DAR-Prüfungsvorbereitung
