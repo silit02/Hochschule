@@ -1,0 +1,18 @@
+Dataset:  worldagprod.dat
+
+Source: J.P. Bhattacharjee (1955). "Resource Use and Productivity in World
+Agriculture," Journal of Farm Economics, Vol 7, #1, pp. 57-71
+
+Description: Agricultural Output and 7 Measures of Resource Use for 22
+Countries circa 1950.
+
+Variables/Columns
+Country   1-12
+Net Agricultural Output (Millions $)  14-20
+Population Active n Agriculture (1000s)  22-28
+Arables Land equivalent  (1000s acres)  30-36
+Conversion Ratio of Pasture of Arable Land  40-44
+Productive Livestock (1000s animal units)  46-52
+Work Stock (1000s units)   54-60
+Fertilizer Consumption  (1000s metric tons)  62-68
+Number of Tractors in Agriculture  70-76

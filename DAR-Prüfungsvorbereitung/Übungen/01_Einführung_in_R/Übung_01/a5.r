@@ -1,0 +1,5 @@
+x <- c(1, 2, NA, 7, NA)
+print(x > 3)
+print(sum(x))
+print(max(x))
+print(x <= Inf)

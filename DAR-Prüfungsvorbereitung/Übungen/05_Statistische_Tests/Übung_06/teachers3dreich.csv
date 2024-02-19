@@ -1,0 +1,121 @@
+"","religion","cohort","residence","gender","member","count"
+"1","Protestant","Empire","rural","male","yes",66
+"2","Protestant","Empire","rural","female","yes",1
+"3","Catholic","Empire","rural","male","yes",22
+"4","Catholic","Empire","rural","female","yes",0
+"5","None","Empire","rural","male","yes",11
+"6","None","Empire","rural","female","yes",3
+"7","Protestant","Late Empire","rural","male","yes",153
+"8","Protestant","Late Empire","rural","female","yes",14
+"9","Catholic","Late Empire","rural","male","yes",62
+"10","Catholic","Late Empire","rural","female","yes",9
+"11","None","Late Empire","rural","male","yes",18
+"12","None","Late Empire","rural","female","yes",4
+"13","Protestant","early Weimar","rural","male","yes",321
+"14","Protestant","early Weimar","rural","female","yes",11
+"15","Catholic","early Weimar","rural","male","yes",137
+"16","Catholic","early Weimar","rural","female","yes",33
+"17","None","early Weimar","rural","male","yes",20
+"18","None","early Weimar","rural","female","yes",0
+"19","Protestant","Late Weimar","rural","male","yes",255
+"20","Protestant","Late Weimar","rural","female","yes",36
+"21","Catholic","Late Weimar","rural","male","yes",111
+"22","Catholic","Late Weimar","rural","female","yes",20
+"23","None","Late Weimar","rural","male","yes",20
+"24","None","Late Weimar","rural","female","yes",20
+"25","Protestant","3rd Reich","rural","male","yes",44
+"26","Protestant","3rd Reich","rural","female","yes",22
+"27","Catholic","3rd Reich","rural","male","yes",19
+"28","Catholic","3rd Reich","rural","female","yes",36
+"29","None","3rd Reich","rural","male","yes",38
+"30","None","3rd Reich","rural","female","yes",24
+"31","Protestant","Empire","urban","male","yes",126
+"32","Protestant","Empire","urban","female","yes",2
+"33","Catholic","Empire","urban","male","yes",32
+"34","Catholic","Empire","urban","female","yes",0
+"35","None","Empire","urban","male","yes",8
+"36","None","Empire","urban","female","yes",0
+"37","Protestant","Late Empire","urban","male","yes",244
+"38","Protestant","Late Empire","urban","female","yes",44
+"39","Catholic","Late Empire","urban","male","yes",68
+"40","Catholic","Late Empire","urban","female","yes",4
+"41","None","Late Empire","urban","male","yes",25
+"42","None","Late Empire","urban","female","yes",0
+"43","Protestant","early Weimar","urban","male","yes",299
+"44","Protestant","early Weimar","urban","female","yes",54
+"45","Catholic","early Weimar","urban","male","yes",104
+"46","Catholic","early Weimar","urban","female","yes",14
+"47","None","early Weimar","urban","male","yes",25
+"48","None","early Weimar","urban","female","yes",15
+"49","Protestant","Late Weimar","urban","male","yes",186
+"50","Protestant","Late Weimar","urban","female","yes",34
+"51","Catholic","Late Weimar","urban","male","yes",74
+"52","Catholic","Late Weimar","urban","female","yes",7
+"53","None","Late Weimar","urban","male","yes",49
+"54","None","Late Weimar","urban","female","yes",20
+"55","Protestant","3rd Reich","urban","male","yes",26
+"56","Protestant","3rd Reich","urban","female","yes",32
+"57","Catholic","3rd Reich","urban","male","yes",17
+"58","Catholic","3rd Reich","urban","female","yes",18
+"59","None","3rd Reich","urban","male","yes",13
+"60","None","3rd Reich","urban","female","yes",14
+"61","Protestant","Empire","rural","male","no",160
+"62","Protestant","Empire","rural","female","no",12
+"63","Catholic","Empire","rural","male","no",101
+"64","Catholic","Empire","rural","female","no",36
+"65","None","Empire","rural","male","no",72
+"66","None","Empire","rural","female","no",12
+"67","Protestant","Late Empire","rural","male","no",159
+"68","Protestant","Late Empire","rural","female","no",46
+"69","Catholic","Late Empire","rural","male","no",127
+"70","Catholic","Late Empire","rural","female","no",82
+"71","None","Late Empire","rural","male","no",74
+"72","None","Late Empire","rural","female","no",24
+"73","Protestant","early Weimar","rural","male","no",277
+"74","Protestant","early Weimar","rural","female","no",90
+"75","Catholic","early Weimar","rural","male","no",189
+"76","Catholic","early Weimar","rural","female","no",171
+"77","None","early Weimar","rural","male","no",71
+"78","None","early Weimar","rural","female","no",43
+"79","Protestant","Late Weimar","rural","male","no",200
+"80","Protestant","Late Weimar","rural","female","no",92
+"81","Catholic","Late Weimar","rural","male","no",158
+"82","Catholic","Late Weimar","rural","female","no",128
+"83","None","Late Weimar","rural","male","no",93
+"84","None","Late Weimar","rural","female","no",96
+"85","Protestant","3rd Reich","rural","male","no",71
+"86","Protestant","3rd Reich","rural","female","no",147
+"87","Catholic","3rd Reich","rural","male","no",125
+"88","Catholic","3rd Reich","rural","female","no",213
+"89","None","3rd Reich","rural","male","no",192
+"90","None","3rd Reich","rural","female","no",253
+"91","Protestant","Empire","urban","male","no",363
+"92","Protestant","Empire","urban","female","no",155
+"93","Catholic","Empire","urban","male","no",184
+"94","Catholic","Empire","urban","female","no",73
+"95","None","Empire","urban","male","no",239
+"96","None","Empire","urban","female","no",93
+"97","Protestant","Late Empire","urban","male","no",501
+"98","Protestant","Late Empire","urban","female","no",318
+"99","Catholic","Late Empire","urban","male","no",314
+"100","Catholic","Late Empire","urban","female","no",193
+"101","None","Late Empire","urban","male","no",273
+"102","None","Late Empire","urban","female","no",59
+"103","Protestant","early Weimar","urban","male","no",456
+"104","Protestant","early Weimar","urban","female","no",344
+"105","Catholic","early Weimar","urban","male","no",345
+"106","Catholic","early Weimar","urban","female","no",274
+"107","None","early Weimar","urban","male","no",201
+"108","None","early Weimar","urban","female","no",114
+"109","Protestant","Late Weimar","urban","male","no",251
+"110","Protestant","Late Weimar","urban","female","no",314
+"111","Catholic","Late Weimar","urban","male","no",141
+"112","Catholic","Late Weimar","urban","female","no",211
+"113","None","Late Weimar","urban","male","no",264
+"114","None","Late Weimar","urban","female","no",288
+"115","Protestant","3rd Reich","urban","male","no",61
+"116","Protestant","3rd Reich","urban","female","no",256
+"117","Catholic","3rd Reich","urban","male","no",70
+"118","Catholic","3rd Reich","urban","female","no",192
+"119","None","3rd Reich","urban","male","no",114
+"120","None","3rd Reich","urban","female","no",307
